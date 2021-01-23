@@ -1,0 +1,4 @@
+name: ChestPVP
+version: 1.0-SNAPSHOT
+author: 'Jakub Zelmanowicz'
+main: pl.trollcraft.chestpvp.ChestPVPPlugin
